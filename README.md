@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a2essiol3nzi
 - 👀 I’m interested in (not decided yet)
 - 🌱 I’m currently learning Computer Science in Pisa, Italy
-- 📫 How to reach me : alenzi.CS@gmail.com
+- 📫 How to reach me : alenzi.cs@gmail.com
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I really like Calisthenics, and play competitiv videogames 🎧 !
 

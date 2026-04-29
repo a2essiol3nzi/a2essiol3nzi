@@ -16,8 +16,6 @@
     I'm 21 years old student from Pisa (Italy, Tuscany)<br>
     <br>- 🔭 I'm still studying for my bachelor's degree. 
     <br>- 📚 I'm currently learning C++ (parallel computing and computer graphic), AI (only theory, no code), and networking in Java! (in addition to many other courses)
-    <br>- ⚡ My personality could be describe in a few words: 1. driven by obsessions, organized, 2. energetic, motivated, 3. reliable, detail-oriented.
-</p>
 
 ###
 

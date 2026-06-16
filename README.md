@@ -15,7 +15,7 @@
 <p align="left">
     I'm 21 years old student from Pisa (Italy, Tuscany)<br>
     <br>- 🔭 I'm still studying for my bachelor's degree. 
-    <br>- 📚 I'm currently learning C++ (parallel computing and computer graphic), AI (only theory, no code), and networking in Java! (in addition to many other courses)
+    <br>- 📚 I'm currently working with C++ and OpenMP (parallel computing, and concurrency), AI (a theoretical introduction, no code), and networking in Java! (in addition to many other courses)
 
 ###
 

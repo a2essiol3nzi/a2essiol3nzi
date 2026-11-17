@@ -15,7 +15,7 @@
 <p align="left">
     I'm 21 years old student from Pisa (Italy, Tuscany)<br>
     <br>- 🔭 I'm still studying for my bachelor's degree (near the end :) ). 
-    <br>- 📚 I'm currently working with C++ and OpenMP (parallel computing, and concurrency), functional programming (in OCaml and a bit of Rust), and DataBases! (in addition to many other courses and topics already studied)
+    <br>- 📚 I'm currently working with C++ and OpenMP (parallel computing, and concurrency), functional programming (in OCaml and Rust), and DataBases! (in addition to many other courses and topics already studied)
     <br>- Thesis & CV in progress...
 
 <div data-importer="techs" align="left">
